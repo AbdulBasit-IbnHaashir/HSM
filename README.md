@@ -3,7 +3,7 @@
 # Open Source Doctor Appointment Booking System using PHP
 ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(1).png)
 
-[HSM] is a Simple web application project that made for electronically channeling Using PHP,HTML & CSS and JSON
+eDoc is a Simple web application project that made for electronically channeling Using PHP,HTML & CSS and JSON
 This project helps a certain medical establishment such as a clinic or a hospital clients/patients to request an appointment with a doctor online. This project can also help doctors to manage the schedules of their appointments with their patients. This is forms apart of our Semester task for our course, DCIT 307
 
 
