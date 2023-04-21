@@ -1,6 +1,6 @@
 
 
-#Doctor Appointment Booking System using PHP
+### Doctor Appointment Booking System using PHP
 ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(1).png)
 
 eDoc is a Simple web application project that made for electronically channeling Using PHP,HTML & CSS and JSON
