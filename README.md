@@ -1,7 +1,7 @@
 
 
 ### Doctor Appointment Booking System using PHP
-![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(1).png)
+![](screenshots/Screenshot%20(1).png)
 
 eDoc is a Simple web application project that made for electronically channeling Using PHP,HTML & CSS and JSON
 This project helps a certain medical establishment such as a clinic or a hospital clients/patients to request an appointment with a doctor online. This project can also help doctors to manage the schedules of their appointments with their patients. This is forms apart of our Semester task for our course, DCIT 307
@@ -39,11 +39,11 @@ This project helps a certain medical establishment such as a clinic or a hospita
   - Edit account settings    
 
     
-| Admin Dashboard | Doctor Dashboard | Patient Dashboard |
-| -------| -------| -------|
-| Email: `admin@edoc.com` | Email: `doctor@edoc.com` |   Email: `patient@edoc.com` | 
-| Password: `123` |  Password: `123` |  Password: `123` |
-| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(3).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(9).png) |    ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(6).png)  |
+| Admin Dashboard                       | Doctor Dashboard                      | Patient Dashboard                     |
+|---------------------------------------|---------------------------------------|---------------------------------------|
+| Email: `admin@edoc.com`               | Email: `doctor@edoc.com`              | Email: `patient@edoc.com`             | 
+| Password: `123`                       | Password: `123`                       | Password: `123`                       |
+| ![](screenshots/Screenshot%20(3).png) | ![](screenshots/Screenshot%20(9).png) | ![](screenshots/Screenshot%20(6).png) |
 
  
   
@@ -62,9 +62,9 @@ This project helps a certain medical establishment such as a clinic or a hospita
 
 ## Screenshots
 
-| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(1).png) | ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(2).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(3).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(4).png)|
-|--------------| --------------|   --------------|  --------------|    
-|  ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(5).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(6).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(7).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(8).png)|
+| ![](screenshots/Screenshot%20(1).png) | ![](screenshots/Screenshot%20(2).png) | ![](screenshots/Screenshot%20(3).png) | ![](screenshots/Screenshot%20(4).png) |
+|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|    
+| ![](screenshots/Screenshot%20(5).png) | ![](screenshots/Screenshot%20(6).png) | ![](screenshots/Screenshot%20(7).png) | ![](screenshots/Screenshot%20(8).png) |
 
 # The Project was developed using the following:
 
