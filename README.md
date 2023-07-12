@@ -16,7 +16,7 @@ This project helps a certain medical establishment such as a clinic or a hospita
     View booking of patients;
     
     
-![](Screenshots/Screenshot (3).png)
+![](/Screenshots/Screenshot%20(3).png)
     
  
  
@@ -33,7 +33,7 @@ This project helps a certain medical establishment such as a clinic or a hospita
     
     edit account settings;
     
-![](/Screenshots/Screenshot (9).png)
+![](/Screenshots/Screenshot%20(9).png)
     
   3.Patiens(Clients)
   
@@ -49,7 +49,7 @@ This project helps a certain medical establishment such as a clinic or a hospita
     edit account settings;
     
     
-![](/Screenshots/Screenshot (6).png)  
+![](/Screenshots/Screenshot%20(6).png)  
     
 If you are Admin,doctor or patient ,only have one page to login :)
 
