@@ -53,7 +53,7 @@
                                 </td>
                                 <td style="padding:0px;margin:0px;">
                                     <p class="profile-title">Administrator</p>
-                                    <p class="profile-subtitle">admin@edoc.com</p>
+                                    <p class="profile-subtitle">admin@cuidado.com</p>
                                 </td>
                             </tr>
                             <tr>
@@ -509,16 +509,16 @@
                             </tr>
                             <tr>
                                 <td class="label-td" colspan="2">
-                                    <input type="password" name="password" class="input-text" placeholder="Defind a Password" required><br>
+                                    <input type="password" name="password" class="input-text" placeholder="Enter Password" required><br>
                                 </td>
                             </tr><tr>
                                 <td class="label-td" colspan="2">
-                                    <label for="cpassword" class="form-label">Conform Password: </label>
+                                    <label for="cpassword" class="form-label">Confirm Password: </label>
                                 </td>
                             </tr>
                             <tr>
                                 <td class="label-td" colspan="2">
-                                    <input type="password" name="cpassword" class="input-text" placeholder="Conform Password" required><br>
+                                    <input type="password" name="cpassword" class="input-text" placeholder="Confirm Password" required><br>
                                 </td>
                             </tr>
                             
